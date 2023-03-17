@@ -28,7 +28,7 @@ export default function Testimonial() {
                     <img
                       src="https://rare-gallery.com/uploads/posts/547274-cristiano-ronaldo.jpg"
                       className="rounded-full shadow-md dark:shadow-black/30"
-                      alt="woman avatar"
+                      alt="avatar"
                     />
                   </div>
                   <div className="md:ml-6">
@@ -60,7 +60,7 @@ export default function Testimonial() {
                     <img
                       src="https://pbs.twimg.com/media/EFLMZOOXkAEwIBi?format=jpg&name=4096x4096"
                       className="rounded-full shadow-md dark:shadow-black/30"
-                      alt="woman avatar"
+                      alt="avatar"
                     />
                   </div>
                   <div className="md:ml-6">
@@ -92,7 +92,7 @@ export default function Testimonial() {
                     <img
                       src="https://assets.nst.com.my/images/articles/21nnno_1532051606.jpg"
                       className="rounded-full shadow-md dark:shadow-black/30"
-                      alt="woman avatar"
+                      alt="avatar"
                     />
                   </div>
                   <div className="md:ml-6">
