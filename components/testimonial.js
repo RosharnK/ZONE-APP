@@ -37,7 +37,7 @@ export default function Testimonial() {
                       Id quam sapiente molestiae numquam quas, voluptates omnis
                       nulla
                     </p>
-                    <p className="mb-2 text-xl font-semibold text-neutral-800 dark:text-neutral-200">
+                    <p className="mb-2 text-xl font-semibold text-black">
                       Cristiano Ronaldo
                     </p>
                     <p className="mb-0 font-semibold text-neutral-500 dark:text-neutral-400">
@@ -69,7 +69,7 @@ export default function Testimonial() {
                       Id quam sapiente molestiae numquam quas, voluptates omnis
                       nulla
                     </p>
-                    <p className="mb-2 text-xl font-semibold text-neutral-800 dark:text-neutral-200">
+                    <p className="mb-2 text-xl font-semibold text-black">
                       Lionel Messi
                     </p>
                     <p className="mb-0 font-semibold text-neutral-500 dark:text-neutral-400">
@@ -101,7 +101,7 @@ export default function Testimonial() {
                       Id quam sapiente molestiae numquam quas, voluptates omnis
                       nulla
                     </p>
-                    <p className="mb-2 text-xl font-semibold text-neutral-800 dark:text-neutral-200">
+                    <p className="mb-2 text-xl font-semibold text-black">
                       Neymar Jr
                     </p>
                     <p className="mb-0 font-semibold text-neutral-500 dark:text-neutral-400">
